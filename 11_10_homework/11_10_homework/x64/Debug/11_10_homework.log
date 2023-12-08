@@ -1,0 +1,13 @@
+﻿  11_10_homework.cpp
+C:\Users\user\source\repos\11_10_homework\11_10_homework\11_10_homework.cpp(29,14): error C2374: 'input_file': redefinition; multiple initialization
+C:\Users\user\source\repos\11_10_homework\11_10_homework\11_10_homework.cpp(9,14): message : see declaration of 'input_file'
+C:\Users\user\source\repos\11_10_homework\11_10_homework\11_10_homework.cpp(30,14): error C2374: 'output_file': redefinition; multiple initialization
+C:\Users\user\source\repos\11_10_homework\11_10_homework\11_10_homework.cpp(10,14): message : see declaration of 'output_file'
+C:\Users\user\source\repos\11_10_homework\11_10_homework\11_10_homework.cpp(47,14): error C2374: 'input_file': redefinition; multiple initialization
+C:\Users\user\source\repos\11_10_homework\11_10_homework\11_10_homework.cpp(9,14): message : see declaration of 'input_file'
+C:\Users\user\source\repos\11_10_homework\11_10_homework\11_10_homework.cpp(48,14): error C2374: 'output_file': redefinition; multiple initialization
+C:\Users\user\source\repos\11_10_homework\11_10_homework\11_10_homework.cpp(10,14): message : see declaration of 'output_file'
+C:\Users\user\source\repos\11_10_homework\11_10_homework\11_10_homework.cpp(73,14): error C2374: 'input_file': redefinition; multiple initialization
+C:\Users\user\source\repos\11_10_homework\11_10_homework\11_10_homework.cpp(9,14): message : see declaration of 'input_file'
+C:\Users\user\source\repos\11_10_homework\11_10_homework\11_10_homework.cpp(74,14): error C2374: 'output_file': redefinition; multiple initialization
+C:\Users\user\source\repos\11_10_homework\11_10_homework\11_10_homework.cpp(10,14): message : see declaration of 'output_file'
