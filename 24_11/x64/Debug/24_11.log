@@ -1,0 +1,59 @@
+﻿  24_11.cpp
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.h(15,14): error C2535: 'void PassportNamespace::Passport::display(void) const': member function already defined or declared
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.h(11,22): message : see declaration of 'PassportNamespace::Passport::display'
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.h(8,36): error C2653: 'Passport': is not a class or namespace name
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.h(8,55): error C2504: 'Passport': base class undefined
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.h(15,14): error C3668: 'ForeignPassport::ForeignPassport::display': method with override specifier 'override' did not override any base class methods
+C:\Users\user\source\repos\HOMEWORK12\24_11\24_11.cpp(6,5): error C2653: 'Passport': is not a class or namespace name
+C:\Users\user\source\repos\HOMEWORK12\24_11\24_11.cpp(6,15): error C2065: 'Passport': undeclared identifier
+C:\Users\user\source\repos\HOMEWORK12\24_11\24_11.cpp(6,24): error C2146: syntax error: missing ';' before identifier 'passport'
+C:\Users\user\source\repos\HOMEWORK12\24_11\24_11.cpp(6,24): error C3861: 'passport': identifier not found
+C:\Users\user\source\repos\HOMEWORK12\24_11\24_11.cpp(7,5): error C2065: 'passport': undeclared identifier
+  ForeignPassport.cpp
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.h(15,14): error C2535: 'void PassportNamespace::Passport::display(void) const': member function already defined or declared
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.h(11,22): message : see declaration of 'PassportNamespace::Passport::display'
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.h(8,36): error C2653: 'Passport': is not a class or namespace name
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.h(8,55): error C2504: 'Passport': base class undefined
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.h(15,14): error C3668: 'ForeignPassport::ForeignPassport::display': method with override specifier 'override' did not override any base class methods
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(3,41): error C2871: 'ForeignPassportNamespace': a namespace with this name does not exist
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(4,34): error C2059: syntax error: 'const'
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(5,7): error C2653: 'Passport': is not a class or namespace name
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(5,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(5,26): error C2065: 'name': undeclared identifier
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(5,32): error C2065: 'number': undeclared identifier
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(5,25): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(5,25): message : The initializer contains too many elements
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(5,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(5,50): error C2065: 'visa': undeclared identifier
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(5,56): error C2059: syntax error: '{'
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(5,56): error C2143: syntax error: missing ';' before '{'
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(5,56): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(8,23): error C2039: 'display': is not a member of 'ForeignPassport'
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.h(7,11): message : see declaration of 'ForeignPassport'
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(8,39): error C2270: 'display': modifiers not allowed on nonmember functions
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(9,5): error C2825: 'Passport': must be a class or namespace when followed by '::'
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.cpp(9,15): error C2510: 'Passport': left of '::' must be a class/struct/union
+  Passport.cpp
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.h(15,14): error C2535: 'void PassportNamespace::Passport::display(void) const': member function already defined or declared
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.h(11,22): message : see declaration of 'PassportNamespace::Passport::display'
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.cpp(4,25): error C2871: 'Passport': a namespace with this name does not exist
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.cpp(6,1): error C2653: 'Passport': is not a class or namespace name
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.cpp(7,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.cpp(7,46): error C2550: 'Passport': constructor initializer lists are only allowed on constructor definitions
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.cpp(7,47): warning C4508: 'Passport': function should return a value; 'void' return type assumed
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.cpp(9,6): error C2653: 'Passport': is not a class or namespace name
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.cpp(9,42): error C2270: 'display': modifiers not allowed on nonmember functions
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.cpp(11,30): error C2065: 'fullName': undeclared identifier
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.cpp(12,36): error C2065: 'passportNumber': undeclared identifier
+  PassportApp.cpp
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.h(15,14): error C2535: 'void PassportNamespace::Passport::display(void) const': member function already defined or declared
+C:\Users\user\source\repos\HOMEWORK12\24_11\Passport.h(11,22): message : see declaration of 'PassportNamespace::Passport::display'
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.h(8,36): error C2653: 'Passport': is not a class or namespace name
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.h(8,55): error C2504: 'Passport': base class undefined
+C:\Users\user\source\repos\HOMEWORK12\24_11\ForeignPassport.h(15,14): error C3668: 'ForeignPassport::ForeignPassport::display': method with override specifier 'override' did not override any base class methods
+C:\Users\user\source\repos\HOMEWORK12\24_11\24_11.cpp(6,5): error C2653: 'Passport': is not a class or namespace name
+C:\Users\user\source\repos\HOMEWORK12\24_11\24_11.cpp(6,15): error C2065: 'Passport': undeclared identifier
+C:\Users\user\source\repos\HOMEWORK12\24_11\24_11.cpp(6,24): error C2146: syntax error: missing ';' before identifier 'passport'
+C:\Users\user\source\repos\HOMEWORK12\24_11\24_11.cpp(6,24): error C3861: 'passport': identifier not found
+C:\Users\user\source\repos\HOMEWORK12\24_11\24_11.cpp(7,5): error C2065: 'passport': undeclared identifier
+  Generating Code...
